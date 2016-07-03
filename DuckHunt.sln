@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8098259B-E2D4-5BBE-45E6-B03014F427DB}") = "DuckHunt", "Assembly-CSharp.csproj", "{A66F62E6-8B69-1D7D-F300-7F72429941BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66F62E6-8B69-1D7D-F300-7F72429941BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66F62E6-8B69-1D7D-F300-7F72429941BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66F62E6-8B69-1D7D-F300-7F72429941BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66F62E6-8B69-1D7D-F300-7F72429941BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
